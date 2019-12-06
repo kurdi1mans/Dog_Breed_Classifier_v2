@@ -18,7 +18,7 @@ This project was developed as part of the requirements the Deep Learning NanoDeg
 1. Clone the repository and navigate to the downloaded folder.
 	
 	```	
-		git clone https://github.com/udacity/deep-learning-v2-pytorch.git
+		git clone https://github.com/kurdi1mans/Dog_Breed_Classifier_v2.git
 		cd deep-learning-v2-pytorch/project-dog-classification
 	```
     
